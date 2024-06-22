@@ -1,0 +1,50 @@
+# Nuxt dev/build outputs
+/nuxt_frontend/.output
+/nuxt_frontend/.data
+/nuxt_frontend/.nuxt
+/nuxt_frontend/.nitro
+/nuxt_frontend/.cache
+/nuxt_frontend/dist
+
+# Node dependencies
+/nuxt_frontend/node_modules
+
+# Logs
+/nuxt_frontend/logs
+/nuxt_frontend/*.log
+
+# Misc
+/nuxt_frontend/.DS_Store
+/nuxt_frontend/.fleet
+/nuxt_frontend/.idea
+
+# Local env files
+/nuxt_frontend/.env
+/nuxt_frontend/.env.*
+/nuxt_frontend/!.env.example
+
+
+
+
+
+
+/laravel_backend/.phpunit.cache
+/laravel_backend/node_modules
+/laravel_backend/public/build
+/laravel_backend/public/hot
+/laravel_backend/public/storage
+/laravel_backend/storage/*.key
+/laravel_backend/vendor
+/laravel_backend/.env
+/laravel_backend/.env.backup
+/laravel_backend/.env.production
+/laravel_backend/.phpactor.json
+/laravel_backend/.phpunit.result.cache
+/laravel_backend/Homestead.json
+/laravel_backend/Homestead.yaml
+/laravel_backend/auth.json
+/laravel_backend/npm-debug.log
+/laravel_backend/yarn-error.log
+/laravel_backend/.fleet
+/laravel_backend/.idea
+/laravel_backend/.vscode
